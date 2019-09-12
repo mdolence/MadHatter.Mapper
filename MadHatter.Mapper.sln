@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadHatter.Mapper", "MadHatter.Mapper\MadHatter.Mapper.csproj", "{8205D643-DB58-4344-8C7E-50FCE0B6F98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadHatter.Mapper.Tests", "MadHatter.Mapper.Tests\MadHatter.Mapper.Tests.csproj", "{38CD680B-CEAB-4DD0-82DC-ADD5F69E4A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8205D643-DB58-4344-8C7E-50FCE0B6F98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8205D643-DB58-4344-8C7E-50FCE0B6F98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8205D643-DB58-4344-8C7E-50FCE0B6F98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8205D643-DB58-4344-8C7E-50FCE0B6F98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CD680B-CEAB-4DD0-82DC-ADD5F69E4A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CD680B-CEAB-4DD0-82DC-ADD5F69E4A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CD680B-CEAB-4DD0-82DC-ADD5F69E4A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CD680B-CEAB-4DD0-82DC-ADD5F69E4A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8A96D1-0C0B-4D52-A387-00BB983F0554}
+	EndGlobalSection
+EndGlobal
